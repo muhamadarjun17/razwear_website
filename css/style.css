@@ -359,7 +359,7 @@ section{
 .news{
     padding-top: .5rem;
     padding-bottom: .5rem;
-    background-color: black;
+    background-color: white;
 }
 .news .content{
     text-align: center;
@@ -370,7 +370,7 @@ section{
 }
 .news .content h3{
     font-size: 2.5rem;
-    color: #000;
+    color: black;
 }
 .news .content p{
     font-size: 1.5rem;
@@ -466,7 +466,7 @@ section{
 
 
 
-.footer .box-container .box h3 {
+.footer .box-container .box h2 {
     font-size: 2.5rem;
     padding: 1rem 0;
     color: var(--main-color);
